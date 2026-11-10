@@ -577,12 +577,12 @@ php -S localhost:8000
 
 ### 8. Verifique o funcionamento
 
-- [ ] A tela de login abre sem mensagens de erro.
-- [ ] O login com as credenciais de demonstração leva ao menu principal.
-- [ ] O menu mostra os contadores **0 artistas** e **0 músicas**.
-- [ ] Um artista cadastrado com foto aparece na tabela, e um novo arquivo surge em `img/`.
-- [ ] Uma música cadastrada com link do YouTube mostra o botão **▶ Assistir**.
-- [ ] A Biblioteca Musical encontra a música pela busca geral.
+- [x] A tela de login abre sem mensagens de erro.
+- [x] O login com as credenciais de demonstração leva ao menu principal.
+- [x] O menu mostra os contadores **0 artistas** e **0 músicas**.
+- [x] Um artista cadastrado com foto aparece na tabela, e um novo arquivo surge em `img/`.
+- [x] Uma música cadastrada com link do YouTube mostra o botão **▶ Assistir**.
+- [x] A Biblioteca Musical encontra a música pela busca geral.
 
 ---
 
